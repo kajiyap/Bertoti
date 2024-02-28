@@ -1,0 +1,6 @@
+1 - VaideBet - tela excessivamente poluída
+2 - VaideBet - 'Match Between the System and the Real World' falta de seguir padrões para facilitar a experiencia do usuário
+3 - Rei do Pitaco - 'Error Prevention' faltam mensagens
+4 - GitHub - 'Aesthetic and Minimalist Design'
+5 - SIGA - 'Aesthetic and Minimalist Design'
+6 - SIGA - 'Visibility of System Status
