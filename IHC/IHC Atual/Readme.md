@@ -1,17 +1,5 @@
 ## Positivos
 
-**SIGA** - _Reconhecimento em vez de recordação:_ As informações necessárias para usar o design (por exemplo, rótulos de campo ou itens de menu) devem ser visíveis ou facilmente recuperáveis ​​quando necessário.
-
-**SIGA** - _Design estético e minimalista:_ Cada unidade extra de informação em uma interface compete com as unidades relevantes de informação e diminui sua visibilidade relativa.
-![alt text](SIGA.png)
-
-<hr>
-
-**ClickJogos** - _Flexibilidade e eficiência de uso:_ Atalhos - ocultos de usuários novatos - podem acelerar a interação para o usuário especialista, de modo que o design possa atender a usuários inexperientes e experientes
-
-**ClickJogos** - _Design estético e minimalista:_ Cada unidade extra de informação em uma interface compete com as unidades relevantes de informação e diminui sua visibilidade relativa.
-![alt text](clickjogos.png)
-
 <hr>
 
 **GitHub** - _Design estético e minimalista:_ Cada unidade extra de informação em uma interface compete com as unidades relevantes de informação e diminui sua visibilidade relativa.
@@ -49,3 +37,16 @@
 ![alt text](govbr.png)
 
 <hr>
+
+**SIGA** - _Reconhecimento em vez de recordação:_ As informações necessárias para usar o design (por exemplo, rótulos de campo ou itens de menu) devem ser visíveis ou facilmente recuperáveis ​​quando necessário.
+
+**SIGA** - _Design estético e minimalista:_ Cada unidade extra de informação em uma interface compete com as unidades relevantes de informação e diminui sua visibilidade relativa.
+![alt text](SIGA.png)
+
+<hr>
+
+**ClickJogos** - _Flexibilidade e eficiência de uso:_ Atalhos - ocultos de usuários novatos - podem acelerar a interação para o usuário especialista, de modo que o design possa atender a usuários inexperientes e experientes
+
+**ClickJogos** - _Design estético e minimalista:_ Cada unidade extra de informação em uma interface compete com as unidades relevantes de informação e diminui sua visibilidade relativa.
+![alt text](clickjogos.png)
+
