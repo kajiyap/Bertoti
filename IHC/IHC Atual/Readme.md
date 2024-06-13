@@ -1,3 +1,7 @@
+# Trabalho 2 (Bot com telegram)
+### FinanceBot (https://github.com/kajiyap/FinanceBot.git)
+
+# Trabalho 1 (Heuristícas)
 ## Positivos
 
 <hr>
