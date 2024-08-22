@@ -7,8 +7,6 @@
 
 ![DiagramaUML](diagramaUML.svg)
 
-Claro! Vamos aprofundar os conceitos do padrão Observer e como ele é implementado no exemplo do placar de futebol.
-
 ### Conceitos Fundamentais
 
 1. **Padrão Observer**:
@@ -169,5 +167,3 @@ public class Main {
 - **Flexibilidade**: Novos tipos de observadores podem ser adicionados sem mudar a implementação do `ScoreBoard`, desde que implementem a interface `Observer`.
 
 - **Escalabilidade**: Vários observadores podem ser registrados para receber atualizações, o que torna o sistema escalável.
-
-Este exemplo mostra como o padrão Observer pode ser utilizado para criar sistemas reativos e desacoplados, onde múltiplos componentes podem reagir automaticamente a mudanças de estado em outros componentes, sem que haja uma dependência rígida entre eles.
