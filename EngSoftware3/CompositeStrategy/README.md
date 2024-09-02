@@ -4,6 +4,8 @@ Este projeto demonstra a implementação do padrão de projeto Composite usando 
 
 ## Estrutura do Projeto
 
+![alt text](image.png)
+
 O projeto é composto pelas seguintes classes e interfaces:
 
 1. **Toy**: Interface comum para todos os brinquedos.
@@ -127,3 +129,4 @@ java ToyStore
 ## Conclusão
 
 O padrão Composite é útil para trabalhar com estruturas hierárquicas de objetos. Este exemplo mostra como você pode usar o padrão Composite para criar e manipular uma coleção de brinquedos de maneira simples e eficiente.
+
